@@ -1,8 +1,11 @@
-@media (min-width: 200px) and (max-width: 900px) {
-    body {
-      
+
+  @media only screen and(max-width:700px) {
+    .main{
+       display: grid;
+       grid-template-columns: repeat(1, 1fr);
     }
-  }
+    
+ }
 #flag{
     width: 20px;
 }
