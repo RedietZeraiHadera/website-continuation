@@ -1,0 +1,194 @@
+@media (min-width: 200px) and (max-width: 900px) {
+    body {
+      
+    }
+  }
+#flag{
+    width: 20px;
+}
+ .header1{
+    display: flex;  
+    align-items: center; 
+     justify-content:space-around;
+     margin-bottom: -50px;
+ }
+    
+  nav{
+    display: flex;
+    align-items: center;
+}
+
+nav ul li{
+display:inline-flex;
+align-items: center;
+padding:20px 50px;
+color: gray;
+
+    }
+
+
+
+#flag{
+    float: left;
+}
+#logo{
+    width: 15%;
+    margin-left: -80px;
+    margin-top: 10px;
+
+    
+   
+}
+header3{
+    background-color: black;  
+    background-image: url(images/starry.jpeg);
+}
+.star{
+    margin-right: 400px;
+    background-color: black;
+    color: azure;
+    
+    
+}
+#lego{
+    color: aliceblue;
+}
+.header2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    background-color: yellow;
+    height:45px ;
+
+}
+.header3{
+    display: flex;
+    justify-content: space-around; 
+}
+#brick{
+    font-size: 25px;
+    margin-bottom: -100px;
+    
+}
+.cat{
+    margin-left: -300px;
+}
+.searchbar{
+    margin-left: 40px;
+}
+.icon{
+    margin-top: 25px;
+}
+.block{
+   border-style: solid; 
+   width: 150px;
+   margin-top: 40px;
+   margin-left: 10px;
+   padding-left: 3%;
+}
+
+
+.new4{
+    margin-left: 250px;
+    margin-top: -65%;
+}
+.c2{
+    margin-left: 25%;
+    margin-top: -25%;
+}
+.c3{
+    margin-left: 55%;
+    margin-top: -25%;
+}
+.new5{
+ margin-left: -550px;  
+ margin-top: 40px;
+}
+.c5{
+    margin-left: 25%;
+    margin-top: -25%; 
+}
+.c6{
+    margin-left: 45%;
+    margin-top: -35%;
+}
+.c8{
+    margin-left: 25%;
+    margin-top: -25%;
+}
+.c9{
+    margin-left: 55%;
+    margin-top: -25%;
+}
+.c11{
+    margin-left: 25%;
+    margin-top: -25%; 
+}
+.c12{
+    margin-left: 55%;
+    margin-top: -25%; 
+} 
+#fa{
+    color: aliceblue;
+}
+.home{
+    margin-top: 30px;
+}
+#im{
+    width: 100px;
+    height: 55px;
+}
+.searchbar input{
+
+  padding: 4px 4px;
+  border: none;
+  margin-top: 4px;
+  font-size: 17px;
+
+}
+
+#pp{
+    
+    color: rgb(rgb(158, 5, 5));
+}
+.alr{
+    margin-left: -250px;
+    margin-top:150px ;
+    display: flex;
+    background-color: rgb(37, 3, 70);
+    color: aliceblue;
+    padding: 10%;
+}
+.ft2{
+    margin-left: 180px;
+}
+.ft3{
+    margin-left: 180px;
+}
+
+.ft4{
+    margin-left: 180px;
+}
+#buts{
+    border-radius: 50%;
+    border:none;
+}
+#buts1{
+    border-radius: 50%;
+    border:none;
+    background-color: yellow;
+}
+.buts{
+    margin-left: 300px;
+}
+
+
+  
+  
+
+  
+     
+
+
+
+
